@@ -10,6 +10,6 @@ Lilian Gimenez Teixeira,
 Marcus Vinícius de Souza Michieleto,
 Mateus Augusto Sartori Martins,
 Pedro Alves de Matos,
-Rafael Mello,
+Rafael Mello
 
 Informações como a estrtura do modelo conceitual, lógico e físico, assim como as queries de criação e softwares utilizados.
