@@ -12,4 +12,4 @@ Mateus Augusto Sartori Martins,
 Pedro Alves de Matos,
 Rafael Mello
 
-Informações como a estrtura do modelo conceitual, lógico e físico, assim como as queries de criação e softwares utilizados.
+Informações como a estrutura do modelo conceitual, lógico e físico, assim como as queries de criação e softwares utilizados.
